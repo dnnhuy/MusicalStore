@@ -1,887 +1,887 @@
 {
   "Files": [
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MusicalStore.bundle.scp.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MusicalStore.bundle.scp.css",
       "PackagePath": "staticwebassets\\MusicalStore.lhyj12mrhs.bundle.scp.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\css\\site.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\css\\style.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\AdminLTEFullLogo.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\AdminLTEFullLogo.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\AdminLTEFullLogo.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\AdminLTELogo.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\AdminLTELogo.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\AdminLTELogo.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\avatar.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\avatar.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\avatar.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\avatar2.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\avatar2.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\avatar2.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\avatar3.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\avatar3.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\avatar3.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\avatar4.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\avatar4.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\avatar4.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\avatar5.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\avatar5.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\avatar5.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\boxed-bg.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\boxed-bg.jpg",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\boxed-bg.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\boxed-bg.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\boxed-bg.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\boxed-bg.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\credit\\american-express.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\credit\\american-express.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\credit\\american-express.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\credit\\cirrus.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\credit\\cirrus.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\credit\\cirrus.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\credit\\mastercard.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\credit\\mastercard.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\credit\\mastercard.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\credit\\paypal.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\credit\\paypal.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\credit\\paypal.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\credit\\paypal2.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\credit\\paypal2.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\credit\\paypal2.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\credit\\visa.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\credit\\visa.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\credit\\visa.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\default-150x150.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\default-150x150.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\default-150x150.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\icons.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\icons.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\icons.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\photo1.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\photo1.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\photo1.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\photo2.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\photo2.png",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\photo2.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\photo3.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\photo3.jpg",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\photo3.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\photo4.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\photo4.jpg",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\photo4.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\prod-1.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\prod-1.jpg",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\prod-1.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\prod-2.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\prod-2.jpg",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\prod-2.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\prod-3.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\prod-3.jpg",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\prod-3.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\prod-4.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\prod-4.jpg",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\prod-4.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\prod-5.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\prod-5.jpg",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\prod-5.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\user1-128x128.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\user1-128x128.jpg",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\user1-128x128.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\user2-160x160.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\user2-160x160.jpg",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\user2-160x160.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\user3-128x128.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\user3-128x128.jpg",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\user3-128x128.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\user4-128x128.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\user4-128x128.jpg",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\user4-128x128.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\user5-128x128.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\user5-128x128.jpg",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\user5-128x128.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\user6-128x128.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\user6-128x128.jpg",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\user6-128x128.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\user7-128x128.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\user7-128x128.jpg",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\user7-128x128.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\user8-128x128.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\assets\\img\\user8-128x128.jpg",
       "PackagePath": "staticwebassets\\dist\\assets\\img\\user8-128x128.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\css\\adminlte.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\css\\adminlte.css",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\css\\adminlte.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\css\\adminlte.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\css\\adminlte.min.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\css\\adminlte.min.css",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\css\\adminlte.min.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\css\\adminlte.min.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\css\\adminlte.rtl.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\css\\adminlte.rtl.css",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.rtl.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\css\\adminlte.rtl.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\css\\adminlte.rtl.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.rtl.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\css\\adminlte.rtl.min.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\css\\adminlte.rtl.min.css",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.rtl.min.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\css\\adminlte.rtl.min.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\css\\adminlte.rtl.min.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\js\\adminlte.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\js\\adminlte.js",
       "PackagePath": "staticwebassets\\dist\\js\\adminlte.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\js\\adminlte.js.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\js\\adminlte.js.map",
       "PackagePath": "staticwebassets\\dist\\js\\adminlte.js.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\js\\adminlte.min.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\js\\adminlte.min.js",
       "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\js\\adminlte.min.js.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\js\\adminlte.min.js.map",
       "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\UI\\general.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\UI\\general.html",
       "PackagePath": "staticwebassets\\dist\\pages\\UI\\general.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\UI\\icons.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\UI\\icons.html",
       "PackagePath": "staticwebassets\\dist\\pages\\UI\\icons.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\UI\\timeline.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\UI\\timeline.html",
       "PackagePath": "staticwebassets\\dist\\pages\\UI\\timeline.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\browser-support.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\browser-support.html",
       "PackagePath": "staticwebassets\\dist\\pages\\docs\\browser-support.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\color-mode.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\color-mode.html",
       "PackagePath": "staticwebassets\\dist\\pages\\docs\\color-mode.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\components\\main-header.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\components\\main-header.html",
       "PackagePath": "staticwebassets\\dist\\pages\\docs\\components\\main-header.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\components\\main-sidebar.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\components\\main-sidebar.html",
       "PackagePath": "staticwebassets\\dist\\pages\\docs\\components\\main-sidebar.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\faq.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\faq.html",
       "PackagePath": "staticwebassets\\dist\\pages\\docs\\faq.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\how-to-contribute.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\how-to-contribute.html",
       "PackagePath": "staticwebassets\\dist\\pages\\docs\\how-to-contribute.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\introduction.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\introduction.html",
       "PackagePath": "staticwebassets\\dist\\pages\\docs\\introduction.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\javascript\\treeview.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\javascript\\treeview.html",
       "PackagePath": "staticwebassets\\dist\\pages\\docs\\javascript\\treeview.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\layout.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\layout.html",
       "PackagePath": "staticwebassets\\dist\\pages\\docs\\layout.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\license.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\docs\\license.html",
       "PackagePath": "staticwebassets\\dist\\pages\\docs\\license.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\examples\\lockscreen.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\examples\\lockscreen.html",
       "PackagePath": "staticwebassets\\dist\\pages\\examples\\lockscreen.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\examples\\login-v2.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\examples\\login-v2.html",
       "PackagePath": "staticwebassets\\dist\\pages\\examples\\login-v2.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\examples\\login.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\examples\\login.html",
       "PackagePath": "staticwebassets\\dist\\pages\\examples\\login.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\examples\\register-v2.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\examples\\register-v2.html",
       "PackagePath": "staticwebassets\\dist\\pages\\examples\\register-v2.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\examples\\register.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\examples\\register.html",
       "PackagePath": "staticwebassets\\dist\\pages\\examples\\register.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\forms\\general.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\forms\\general.html",
       "PackagePath": "staticwebassets\\dist\\pages\\forms\\general.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\generate\\theme.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\generate\\theme.html",
       "PackagePath": "staticwebassets\\dist\\pages\\generate\\theme.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\index.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\index.html",
       "PackagePath": "staticwebassets\\dist\\pages\\index.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\index2.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\index2.html",
       "PackagePath": "staticwebassets\\dist\\pages\\index2.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\index3.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\index3.html",
       "PackagePath": "staticwebassets\\dist\\pages\\index3.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\layout\\collapsed-sidebar.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\layout\\collapsed-sidebar.html",
       "PackagePath": "staticwebassets\\dist\\pages\\layout\\collapsed-sidebar.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\layout\\fixed-sidebar.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\layout\\fixed-sidebar.html",
       "PackagePath": "staticwebassets\\dist\\pages\\layout\\fixed-sidebar.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\layout\\layout-custom-area.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\layout\\layout-custom-area.html",
       "PackagePath": "staticwebassets\\dist\\pages\\layout\\layout-custom-area.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\layout\\layout-rtl.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\layout\\layout-rtl.html",
       "PackagePath": "staticwebassets\\dist\\pages\\layout\\layout-rtl.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\layout\\logo-switch.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\layout\\logo-switch.html",
       "PackagePath": "staticwebassets\\dist\\pages\\layout\\logo-switch.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\layout\\sidebar-mini.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\layout\\sidebar-mini.html",
       "PackagePath": "staticwebassets\\dist\\pages\\layout\\sidebar-mini.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\layout\\unfixed-sidebar.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\layout\\unfixed-sidebar.html",
       "PackagePath": "staticwebassets\\dist\\pages\\layout\\unfixed-sidebar.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\tables\\simple.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\tables\\simple.html",
       "PackagePath": "staticwebassets\\dist\\pages\\tables\\simple.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\widgets\\cards.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\widgets\\cards.html",
       "PackagePath": "staticwebassets\\dist\\pages\\widgets\\cards.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\widgets\\info-box.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\widgets\\info-box.html",
       "PackagePath": "staticwebassets\\dist\\pages\\widgets\\info-box.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\widgets\\small-box.html",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\dist\\pages\\widgets\\small-box.html",
       "PackagePath": "staticwebassets\\dist\\pages\\widgets\\small-box.html"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\favicon.ico",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Default\\images.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Default\\images.jpg",
       "PackagePath": "staticwebassets\\images\\Default\\images.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\AC02.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\AC02.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\AC02.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\AC03.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\AC03.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\AC03.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\AN05.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\AN05.png",
       "PackagePath": "staticwebassets\\images\\Drum\\AN05.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\AS01.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\AS01.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\AS01.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\AT06.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\AT06.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\AT06.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\CC04.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\CC04.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\CC04.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\OC08.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\OC08.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\OC08.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\OE07.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\OE07.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\OE07.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\OF06.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\OF06.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\OF06.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\OI04.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\OI04.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\OI04.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\OI05.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\OI05.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\OI05.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\PD02.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\PD02.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\PD02.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\PE01.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\PE01.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\PE01.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\PR03.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\PR03.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\PR03.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\RT07.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\RT07.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\RT07.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\RT08.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\RT08.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\RT08.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\RT09.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\RT09.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\RT09.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\RT10.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Drum\\RT10.jpg",
       "PackagePath": "staticwebassets\\images\\Drum\\RT10.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\CD06.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\CD06.jpg",
       "PackagePath": "staticwebassets\\images\\Guitar\\CD06.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\CF07.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\CF07.jpg",
       "PackagePath": "staticwebassets\\images\\Guitar\\CF07.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\CP05.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\CP05.jpg",
       "PackagePath": "staticwebassets\\images\\Guitar\\CP05.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\FD02.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\FD02.jpg",
       "PackagePath": "staticwebassets\\images\\Guitar\\FD02.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\FD03.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\FD03.jpg",
       "PackagePath": "staticwebassets\\images\\Guitar\\FD03.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\SA10.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\SA10.jpg",
       "PackagePath": "staticwebassets\\images\\Guitar\\SA10.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\TG04.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\TG04.jpg",
       "PackagePath": "staticwebassets\\images\\Guitar\\TG04.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\TL01.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\TL01.jpg",
       "PackagePath": "staticwebassets\\images\\Guitar\\TL01.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\Takamine.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\Takamine.jpg",
       "PackagePath": "staticwebassets\\images\\Guitar\\Takamine.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\Test.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Guitar\\Test.jpg",
       "PackagePath": "staticwebassets\\images\\Guitar\\Test.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\DA01.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\DA01.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\DA01.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\DA02.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\DA02.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\DA02.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\DA04.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\DA04.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\DA04.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\DE11.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\DE11.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\DE11.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\DE12.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\DE12.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\DE12.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\DS07.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\DS07.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\DS07.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\DS08.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\DS08.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\DS08.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\FA15.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\FA15.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\FA15.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\FM16.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\FM16.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\FM16.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\FT01.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\FT01.png",
       "PackagePath": "staticwebassets\\images\\Other\\FT01.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\LG13.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\LG13.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\LG13.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\LG14.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\LG14.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\LG14.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\ON03.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\ON03.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\ON03.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\PS02.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\PS02.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\PS02.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\PS03.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\PS03.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\PS03.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\RS11.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\RS11.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\RS11.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\RS12.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\RS12.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\RS12.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\SD11.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\SD11.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\SD11.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\TC12.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\TC12.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\TC12.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\TG05.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\TG05.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\TG05.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\TG06.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\TG06.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\TG06.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\ZZ04.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\ZZ04.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\ZZ04.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\ZZ05.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\ZZ05.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\ZZ05.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\ZZ06.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\ZZ06.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\ZZ06.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\ZZ07.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\ZZ07.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\ZZ07.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\ZZ08.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\ZZ08.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\ZZ08.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\ZZ09.png",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\ZZ09.png",
       "PackagePath": "staticwebassets\\images\\Other\\ZZ09.png"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\ZZ10.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Other\\ZZ10.jpg",
       "PackagePath": "staticwebassets\\images\\Other\\ZZ10.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\EE10.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\EE10.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\EE10.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KC03.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KC03.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\KC03.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KC04.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KC04.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\KC04.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KG01.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KG01.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\KG01.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KG02.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KG02.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\KG02.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KG08.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KG08.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\KG08.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KG09.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KG09.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\KG09.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KK02.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KK02.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\KK02.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KK03.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KK03.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\KK03.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KN01.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\KN01.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\KN01.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\SJ04.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\SJ04.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\SJ04.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\SJ05.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\SJ05.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\SJ05.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\SJ06.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\SJ06.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\SJ06.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\SJ07.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\SJ07.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\SJ07.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\SJ08.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\SJ08.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\SJ08.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\SK05.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\SK05.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\SK05.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\SK06.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\SK06.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\SK06.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\SK07.jpg",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\images\\Piano\\SK07.jpg",
       "PackagePath": "staticwebassets\\images\\Piano\\SK07.jpg"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\js\\site.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Job\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\DAIHOC\\KLTN\\abc\\MusicalStore\\Project\\MusicalStore\\MusicalStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

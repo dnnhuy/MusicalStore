@@ -17,117 +17,117 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MusicalStore
 build_property.RootNamespace = MusicalStore
-build_property.ProjectDir = D:\Job\MusicalStore\Project\MusicalStore\MusicalStore\
+build_property.ProjectDir = D:\DAIHOC\KLTN\abc\MusicalStore\Project\MusicalStore\MusicalStore\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Job\MusicalStore\Project\MusicalStore\MusicalStore
+build_property.MSBuildProjectDirectory = D:\DAIHOC\KLTN\abc\MusicalStore\Project\MusicalStore\MusicalStore
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Admin/AdminOrder.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Admin/AdminOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5PcmRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Admin/AdminPayment.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Admin/AdminPayment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5QYXltZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Admin/AdminProduct.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Admin/AdminProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5Qcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Admin/AdminRevenue.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Admin/AdminRevenue.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5SZXZlbnVlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Admin/AdminStaff.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Admin/AdminStaff.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5TdGFmZi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Admin/AdminUser.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Admin/AdminUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5Vc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Admin/Dashboard.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Admin/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Auth/Login.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Auth/Register.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Auth/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Auth/RegisterUserInfo.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Auth/RegisterUserInfo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3RlclVzZXJJbmZvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Home/FormUserInformation.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Home/FormUserInformation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JtVXNlckluZm9ybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Home/Index.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Home/Privacy.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Home/ProductDetail.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Home/ProductDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0RGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Home/Profile.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Home/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Home/ProfileUser.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Home/ProfileUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Home/ShoppingCart.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Home/ShoppingCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wcGluZ0NhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Payment/Order.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Payment/Order.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxPcmRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Payment/PaymentCallBackMomo.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Payment/PaymentCallBackMomo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxQYXltZW50Q2FsbEJhY2tNb21vLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Shared/Error.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Shared/_AdminLayout.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Shared/_AuthLayout.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Shared/_AuthLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/_ViewImports.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/_ViewStart.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Job/MusicalStore/Project/MusicalStore/MusicalStore/Views/Shared/_Layout.cshtml]
+[D:/DAIHOC/KLTN/abc/MusicalStore/Project/MusicalStore/MusicalStore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-q8oiydyxrl
